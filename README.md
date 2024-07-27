@@ -24,7 +24,7 @@ Ziunx Emulator is a revolutionary Nintendo Switch emulator, building upon the fo
 
 To get started with Ziunx Emulator:
 
-1. **Download**: Download the latest release from this repository.
+1. **Download**: [Download](https://github.com/ziunx-emulator/Zinux-emu/releases) the latest release from this repository.
 2. **Install**: Install the APK on your Android device.
 3. **Configure**: Follow the on-screen instructions to configure your settings.
 4. **Play**: Load your favorite Nintendo Switch games and start playing!
