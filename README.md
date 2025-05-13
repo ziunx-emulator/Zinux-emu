@@ -2,7 +2,7 @@
 
 Welcome to the official repository for Ziunx Emulator. Please follow this repository to ensure you are downloading from the official source and avoid downloading from unauthorized sources.
 
-![Ziunx Emulator](ziunxemulator.com/wp-content/uploads/2024/07/Ziunx_Emu_Logo-300x300.png)
+![Ziunx Emulator](https://ziunxemulator.com/wp-content/uploads/2024/07/Ziunx_Emu_Logo-300x300.png)
 
 ## Overview
 
