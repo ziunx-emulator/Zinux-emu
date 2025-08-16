@@ -6,7 +6,7 @@ Welcome to the official repository for Ziunx Emulator. Please follow this reposi
 
 ## Overview
 
-Ziunx Emulator is a revolutionary Nintendo Switch emulator, building upon the foundation of Yuzu. It is specifically optimized for Android devices with lower GPU capabilities, delivering an exceptional performance range of 90-120 FPS. This makes Ziunx stand out from other emulators by not only enhancing performance but also significantly reducing heating issues, allowing you to enjoy top-tier games seamlessly.
+Ziunx Emulator is a revolutionary [Nintendo Switch emulator](https://ziunxemulator.com/), building upon the foundation of Yuzu. It is specifically optimized for Android devices with lower GPU capabilities, delivering an exceptional performance range of 90-120 FPS. This makes Ziunx stand out from other emulators by not only enhancing performance but also significantly reducing heating issues, allowing you to enjoy top-tier games seamlessly.
 
 ![Ziunx Performance](https://ziunxemulator.com/wp-content/uploads/2024/08/ziunx-img-1-1024x478.webp)
 
